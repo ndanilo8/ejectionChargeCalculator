@@ -1,17 +1,21 @@
-## Pyrotechnic Charge Calculator for Parachute Ejection in High Power Rocketry
+# Pyrotechnic Charge Calculator for Parachute Ejection in High Power Rocketry
 
-### Brief Explanation
+## Brief Explanation
 
-This Pyrotechnic Charge Calculator is a simple tool designed for use in High Power Rocketry to estimate the amount of pyrotechnic charge needed to pressurize a container for parachute ejection from the fuselage. High Power Rocketry often involves deploying parachutes to ensure a safe and controlled descent of the rocket after the main thrust phase. The parachute ejection system typically uses a pyrotechnic charge to rapidly generate gas, creating pressure inside the container that deploys the parachute.
+The Black Powder Charge Calculator for Rocket Parachute Ejection is a practical tool designed to provide an approximation of the amount of black powder required for successful parachute deployment in high-powered rockets. This calculator is especially useful for rockets measuring around 3-4 inches in diameter. It assists rocket hobbyists, builders, and engineers in determining the appropriate amount of black powder needed to achieve the desired parachute ejection pressure.
 
-### Goal
+## Key Features:
+**User-Friendly Interface:** The calculator offers a simple and user-friendly interface, enabling users to input key parameters conveniently.
 
-The goal of this calculator is to provide rocket enthusiasts and designers with a quick and efficient way to estimate the necessary amount of pyrotechnic charge for a specific container volume and desired pressure. The calculator takes into account the expected temperature and height above sea level to adjust the pressure calculation. By using this tool, rocketry enthusiasts can accurately determine the required pyrotechnic charge, ensuring a reliable and successful parachute ejection during the flight. This calculator can aid in optimizing the parachute deployment system and contribute to the overall safety and performance of high-power rockets.
+**Input Parameters:**
+- **Diameter** of Parachute Section **Body Tube**: The user provides the diameter of the cylindrical body tube section where the parachute is housed.
+- **Length** of Parachute Section **Body Tube**: The length of the cylindrical body tube section where the parachute is housed is specified by the user.
+- **Desired Pressure**: Users can input their target pressure in pounds per square inch (PSI), which influences the parachute deployment.
 
-### Usage 
-Input Parameters: Once the calculator application starts running, you will be prompted to enter several input parameters:
+**Accurate Calculations:** The calculator utilizes precise mathematical formulas to determine the amount of black powder required for parachute deployment. It considers the volume of the cylinder, desired pressure, and other crucial factors.
 
-1. Enter the **container volume** in cubic meters. This value represents the internal volume of the container that needs to be pressurized for parachute ejection.
-2. Enter the **required pressure** in Pascals. This value represents the desired pressure inside the container for successful parachute deployment.
-3. Enter the **expected temperature** in Celsius. This is the temperature at which you anticipate the parachute ejection event to occur.
-4. Enter the **height above sea level** in meters. This value is necessary to adjust the pressure calculation based on the altitude.
+**Safety Considerations:** The tool emphasizes safety, as it is essential to ground test the parachute deployment before the first launch. Users are advised to keep a safe distance from the rocket during testing.
+
+**Grams of FFFFg Black Powder:** After inputting the necessary values, the calculator promptly computes and displays the amount of FFFFg black powder required in grams for successful parachute ejection.
+
+## Note: The calculator assumes FFFFg black powder and provides an approximate value. The actual deployment performance may vary due to real-world conditions, so it is crucial to conduct thorough ground tests for optimal results.
