@@ -18,4 +18,5 @@ The Black Powder Charge Calculator for Rocket Parachute Ejection is a practical 
 
 **Grams of FFFFg Black Powder:** After inputting the necessary values, the calculator promptly computes and displays the amount of FFFFg black powder required in grams for successful parachute ejection.
 
-## Note: The calculator assumes FFFFg black powder and provides an approximate value. The actual deployment performance may vary due to real-world conditions, so it is crucial to conduct thorough ground tests for optimal results.
+## Note: 
+The calculator assumes FFFFg black powder and provides an approximate value. The actual deployment performance may vary due to real-world conditions, so it is crucial to conduct thorough ground tests for optimal results.
