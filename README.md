@@ -8,8 +8,8 @@ The Black Powder Charge Calculator for Rocket Parachute Ejection is a practical 
 **User-Friendly Interface:** The calculator offers a simple and user-friendly interface, enabling users to input key parameters conveniently.
 
 **Input Parameters:**
-- **Diameter** of Parachute Section **Body Tube**: The user provides the diameter of the cylindrical body tube section where the parachute is housed.
-- **Length** of Parachute Section **Body Tube**: The length of the cylindrical body tube section where the parachute is housed is specified by the user.
+- **Diameter** of Parachute Section **Body Tube**: The user provides the diameter of the cylindrical body tube section in centimeters(cm) where the parachute is housed.
+- **Length** of Parachute Section **Body Tube**: The length of the cylindrical body tube section in centimeters(cm) where the parachute is housed is specified by the user. (cm)
 - **Desired Pressure**: Users can input their target pressure in pounds per square inch (PSI), which influences the parachute deployment.
 
 **Accurate Calculations:** The calculator utilizes precise mathematical formulas to determine the amount of black powder required for parachute deployment. It considers the volume of the cylinder, desired pressure, and other crucial factors.
